@@ -1,6 +1,6 @@
-#Egor Gorbik
+# Egor Gorbik
 
-##Contacts:
+## Contacts:
 
 * **Email:** gorbikega@gmail.com 
 * **GitHub:** https://github.com/EgorGorbik
