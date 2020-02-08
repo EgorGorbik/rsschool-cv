@@ -9,7 +9,6 @@
 ## Summary
 
 I am a beginner web developer. It is important for me to get development experience. I hope Rolling Scopes will give me the necessary knowledge. 
-
 ## Skills
 
 * **Programming languages:** JavaScript, Pascal
@@ -28,3 +27,18 @@ function Main(props) {
 
 export default Main;
 ```
+## Experience
+
+* social network project
+* racing account system
+* cinema project
+
+## Education
+
+* student (front-end web development with react) Syberry Academy
+* student (javascript) VironIT
+
+
+## English
+
+Studied english at school and university.
