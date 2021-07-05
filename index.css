@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.header {
+  display: flex;
+}
+
+.main-block {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.header-information {
+  width: 100%;
+  text-align: center;
+}
+
+.contacts {
+  width: 65%;
+  margin: 60px auto;
+  text-align: left;
+}
